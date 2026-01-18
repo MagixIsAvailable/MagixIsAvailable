@@ -8,5 +8,5 @@ I am a "hybrid" technical creative capable of diagnosing hardware faults while m
 
 ### 🛠 Tech Stack
 * **Engines:** Unity (URP), Unreal Engine 
-* **Code:** C# (HLSL/ShaderLab), Python (NLP/Transformers) 
+* **Code:**  Python (NLP/Transformers) 
 * **Tools:** Polycam (LiDAR), Adobe Creative Suite, TouchDesigner
