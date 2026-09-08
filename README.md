@@ -1,7 +1,7 @@
 # Hi, I'm Michal 👋
 
 **Technical Creative · Unity Developer · 
-BSc Computing & Creative Design, Robert Gordon University (2026)
+BSc Computing & Creative Design, Robert Gordon University (2026) **
 
 *"Seen. Not Staged." 📸*
 
